@@ -1130,6 +1130,8 @@ section {
 }
 
 .contact-info-value {
+  padding-right:3%;
+  padding-left:3%;
   color: var(--foreground);
   word-break: break-word;
   overflow-wrap: break-word;
