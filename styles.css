@@ -1168,6 +1168,7 @@ section {
 }
 
 .social-card {
+  margin:6%;
   background: var(--card);
   border: 1px solid var(--border);
   border-radius: 16px;
@@ -1230,6 +1231,7 @@ section {
 }
 
 .social-username {
+  overflow-wrap: break-word;
   font-size: 0.875rem;
   color: var(--muted-foreground);
 }
