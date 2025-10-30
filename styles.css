@@ -1230,7 +1230,7 @@ section {
 }
 
 .social-username {
-  overflow-wrap: break-word;
+  word-break: break-all;
   font-size: 0.875rem;
   color: var(--muted-foreground);
 }
